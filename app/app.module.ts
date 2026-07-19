@@ -13,6 +13,7 @@ import { TabsPage } from '../pages/tabs/tabs';
     MyApp,
     AboutPage,
     ContactPage,
+    ProductPage,
     HomePage,
     TabsPage
   ],
@@ -25,6 +26,7 @@ import { TabsPage } from '../pages/tabs/tabs';
     MyApp,
     AboutPage,
     ContactPage,
+    ProductPage,
     HomePage,
     TabsPage
   ],
